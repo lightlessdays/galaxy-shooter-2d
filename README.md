@@ -28,3 +28,5 @@ The controls of the game are as follows:
 -Press R to restart the game.
 
 -Shoot the asteroid to start the game.
+
+**Loading the game for the FIRST time may take longer as it needs to load resources.**
