@@ -2,6 +2,9 @@
 
 ![banner](https://raw.githubusercontent.com/lightlessdays/img/main/galaxyshooter2d/Your%20paragraph%20text.png)
 
+## Play the Game
+
+To play the game, [click here](https://lightlessdays.github.io/galaxy-shooter-2d/)
 
 ## How to Play?
 
