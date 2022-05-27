@@ -30,4 +30,4 @@ The controls of the game are as follows:
 -Shoot the asteroid to start the game.
 
 <hr>
-**Loading the game for the FIRST time may take longer as it needs to load resources.**
+<b>Loading the game for the FIRST time may take longer as it needs to load resources.</b>
