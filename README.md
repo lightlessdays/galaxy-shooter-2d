@@ -33,4 +33,4 @@ The controls of the game are as follows:
 -Shoot the asteroid to start the game.
 
 <hr>
-<b>Loading the game for the FIRST time may take longer as it needs to load resources.</b>
+<b>Loading the game for the FIRST time may take longer as it needs to load resources. This game is meant to be played in the full screen mode. To enter full screen, tap the blue colored full screen icon at the bottom left of the screen.</b>
